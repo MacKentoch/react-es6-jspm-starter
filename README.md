@@ -8,7 +8,7 @@ This is a simple `ReactJS + ES6 + JSPM` starter with minimalist content.
 - ReactJS (> 0.14)
 - ES6 (*or ES2015 as it is now called since recent time*)
 - jspm (*System JS and jspm = speed of light workflow from zero*)
-  - more information on using jspm with react : [in this nice article](http://www.newmediacampaigns.com/blog/refactoring-react-components-to-es6-classes) 
+  - more information on using jspm with react : [in this nice article](http://egorsmirnov.me/2015/10/11/react-and-es6-part5.html) 
 - babel (<6)
   - babel6 is a breaking change by itself. A new repo will be created soon with jspm-babel6.
   Right now (mid-december 2015) automatic `jspm init` will provide babel<6
