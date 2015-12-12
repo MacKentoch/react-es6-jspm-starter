@@ -23,6 +23,8 @@ This is a simple `ReactJS + ES6 + JSPM` starter with minimalist content.
 npm install jspm -g
 ```
 
+**From root directory** : 
+
 ```bash
 npm install && jspm install
 ```
@@ -41,6 +43,7 @@ npm install && jspm install
 npm install -g jspm-server
 ```
 
+**From root directory** : 
 
 ```bash
 jspm-server
