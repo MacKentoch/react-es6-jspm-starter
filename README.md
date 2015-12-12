@@ -18,16 +18,15 @@ This is a simple `ReactJS + ES6 + JSPM` starter with minimalist content.
 
 ##Intallation :
 
-```bash
-npm install && jspm install
-```
-
-*Note :*
-
 *Be sure to have JSPM installed otherwise install it before :*
 ```bash
 npm install jspm -g
 ```
+
+```bash
+npm install && jspm install
+```
+
 
 
 
@@ -36,6 +35,13 @@ npm install jspm -g
 ##use as DEV  : 
 
 1- start a server 
+
+*Be sure to have jspm-server installed globally or install it :*
+```bash
+npm install -g jspm-server
+```
+
+
 ```bash
 jspm-server
 ```
