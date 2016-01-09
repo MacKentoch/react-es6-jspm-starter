@@ -1,6 +1,8 @@
 React JS (ES6 or ES2015) JSPM starter
 =========
 
+[![GitHub version](https://badge.fury.io/gh/MacKentoch%2Freact-es6-jspm-starter.svg)](https://badge.fury.io/gh/MacKentoch%2Freact-es6-jspm-starter)
+
 This is a simple `ReactJS + ES6 + JSPM` starter with minimalist content.
 
 **feature :** 
